@@ -14,11 +14,9 @@ Policy configuration; successful application must be checked separately.
 
 Compliance statuses including an encryption-related error.
 
-## 3. Assigned applications
+## 3. Directory group inventory (excluded)
 
-![Assigned applications](03_Assigned_Apps_List.png)
-
-App assignments/listing, not proof of installation.
+This screenshot was removed from the current branch because it displayed directory object IDs and was incorrectly labeled as an application inventory. It is not app-deployment evidence.
 
 ## 4. BitLocker policy deployment
 
@@ -38,11 +36,11 @@ LAPS configuration; do not disclose password or recovery material.
 
 Rotation timestamp shown, not password contents.
 
-## 7. Windows Update ring
+## 7. Microsoft Entra device registration settings
 
 ![Windows Update ring](07_Windows_Update_Ring.png)
 
-Update configuration, not completed patch installation.
+Microsoft Entra device registration and MFA registration settings; **not** a Windows Update ring screenshot.
 
 ## 8. Conditional Access policy
 
