@@ -1,4 +1,6 @@
-# Microsoft 365 Administration and Troubleshooting Case Studies
+# Separate Professional Experience — Microsoft 365 Administration and Troubleshooting
+
+> **Not evidence from the Entra/Intune lab.** This page summarizes separate MSP support and independent tenant work. It should not be used to claim these tasks were demonstrated by the lab screenshots.
 
 These are **anonymized categories of work** drawn from hands-on MSP support and independent tenant administration in 2026. They are not copied customer tickets, and they do not disclose customer names, identifiers, or private configurations. They describe work performed, not quantified business outcomes.
 
