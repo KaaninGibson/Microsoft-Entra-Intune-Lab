@@ -1,6 +1,6 @@
 # Microsoft Entra ID & Intune Device Security Lab
 
-**[View the published screenshot evidence gallery](docs/published-evidence-gallery.md)** — 10 screenshots with evidence limitations.
+**[View the published screenshot evidence gallery](docs/published-evidence-gallery.md)** — 9 currently published screenshots (one directory-ID screenshot removed) with evidence limitations.
 
 A hands-on lab exploring cloud identity, Windows endpoint enrollment, configuration management, and access-policy evaluation in a test tenant. This repository documents historical lab exercises, **not** a production deployment.
 
