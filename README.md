@@ -31,13 +31,13 @@ flowchart LR
 | Windows LAPS | Policy and device password rotation timestamp visible | Never publish passwords or recovery secrets |
 | Conditional Access | Compliant-device pilot evaluated in **report-only** mode; report-only failure visible | Policy was **not enforced** in this test |
 | Autopilot | One device imported/visible; profile state observed as Pending | Complete post-wipe OOBE provisioning **not verified** |
-| Defender and update management | Documented protection, update rings, and endpoint-management exercises | Supporting screenshots require individual verification |
+| Defender and update management | Historical notes describe protection and update-management exercises | The published device-registration screenshot is **not** an update-ring screenshot; no completed patch rollout is proven |
 
 ## Evidence and verification
 
 See the [evidence matrix](docs/evidence-matrix.md) for dated observations and the limits of each claim.
 
-Raw screenshots may contain tenant, device, and user identifiers. **No raw screenshots are published.** Ten candidate screenshots are under private review; configuration screenshots alone do not establish successful policy application.
+Nine curated screenshot derivatives are published in the [evidence gallery](docs/published-evidence-gallery.md). One image containing directory object IDs was removed from the current branch; older commits may still retain it. Configuration screenshots alone do not establish successful policy application.
 
 ## Next validation
 
