@@ -2,6 +2,8 @@
 
 **[View the published screenshot evidence gallery](docs/published-evidence-gallery.md)** — 9 currently published screenshots (one directory-ID screenshot removed) with evidence limitations.
 
+[Published screenshot privacy and integrity review](docs/privacy-and-integrity-review.md) — file hash verification, privacy findings, and historical Git limitations.
+
 A hands-on lab exploring cloud identity, Windows endpoint enrollment, configuration management, and access-policy evaluation in a test tenant. This repository documents historical lab exercises, **not** a production deployment.
 
 ## What I actually tested
