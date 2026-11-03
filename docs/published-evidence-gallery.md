@@ -12,7 +12,7 @@ Policy configuration; successful application must be checked separately.
 
 ![Device compliance settings](02_Compliance_Settings.png)
 
-Compliance statuses including an encryption-related error.
+Per-setting compliance shows errors for BitLocker, Secure Boot, and encryption of data storage; other listed controls show compliant.
 
 ## 3. BitLocker policy deployment
 
