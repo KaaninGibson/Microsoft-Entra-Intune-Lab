@@ -39,3 +39,10 @@ Raw screenshots may contain tenant, device, and user identifiers. **No raw scree
 - Review LAPS and compliance policy/device results at full resolution.
 - Keep Conditional Access explicitly **report-only** unless separately tested in enforcement mode.
 - Verify Autopilot end-to-end only if claiming successful OOBE deployment.
+
+## Technical walkthroughs and case studies
+
+- [Windows enrollment and device management](docs/device-management.md)
+- [BitLocker, Windows LAPS, Conditional Access, and Defender](docs/security-controls.md)
+- [Autopilot registration and OOBE verification boundary](docs/autopilot.md)
+- [Anonymized Microsoft 365 operations case studies](docs/m365-operations-case-studies.md)
