@@ -3,7 +3,7 @@
 ## Documented activity
 
 - Imported a test device hardware hash into Windows Autopilot.
-- Created or assigned a user-driven Microsoft Entra join deployment profile.
+- Worked with a user-driven Microsoft Entra join deployment profile; the captured device list showed **Not assigned** or **Pending** states, not confirmed successful assignment.
 - Observed the imported device in the Autopilot devices list.
 - Captured a profile status of **Pending** during testing.
 
