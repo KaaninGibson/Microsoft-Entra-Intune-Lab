@@ -10,4 +10,4 @@
 | Sep 09 02:01:14 | CLOUDCLIENT01: Compliant, Corporate, Intune | Device status snapshot |
 | Sep 09 02:01:59 | Autopilot profile: Pending | Incomplete profile status |
 
-These observations come from earlier image review. **No screenshot has been individually cleared for public release in this repository.**
+These observations come from reviewed screenshots. A new ten-image sanitized selection is being privately reviewed. **No screenshots from that selection have been published to this repository.**
