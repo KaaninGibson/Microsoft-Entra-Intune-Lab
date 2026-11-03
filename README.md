@@ -2,6 +2,10 @@
 
 A hands-on lab exploring cloud identity, Windows endpoint enrollment, configuration management, and access-policy evaluation in a test tenant. This repository documents historical lab exercises, **not** a production deployment.
 
+## What I actually tested
+
+A Windows 11 virtual endpoint appeared in Intune as **managed, corporate, and compliant**. Intune reported one successful BitLocker policy result, and the LAPS device page displayed a password rotation timestamp. I also examined per-setting compliance results, including an encryption-related error. Conditional Access was evaluated in **report-only** mode; Autopilot device registration was visible, but successful OOBE provisioning was not demonstrated.
+
 ## Architecture
 
 ```mermaid
@@ -31,7 +35,7 @@ flowchart LR
 
 See the [evidence matrix](docs/evidence-matrix.md) for dated observations and the limits of each claim.
 
-Raw screenshots may contain tenant, device, and user identifiers. **No raw screenshots are published.** Configuration screenshots alone do not establish successful policy application.
+Raw screenshots may contain tenant, device, and user identifiers. **No raw screenshots are published.** Ten candidate screenshots are under private review; configuration screenshots alone do not establish successful policy application.
 
 ## Next validation
 
@@ -40,9 +44,9 @@ Raw screenshots may contain tenant, device, and user identifiers. **No raw scree
 - Keep Conditional Access explicitly **report-only** unless separately tested in enforcement mode.
 - Verify Autopilot end-to-end only if claiming successful OOBE deployment.
 
-## Technical walkthroughs and case studies
+## Technical walkthroughs
 
 - [Windows enrollment and device management](docs/device-management.md)
 - [BitLocker, Windows LAPS, Conditional Access, and Defender](docs/security-controls.md)
 - [Autopilot registration and OOBE verification boundary](docs/autopilot.md)
-- [Anonymized Microsoft 365 operations case studies](docs/m365-operations-case-studies.md)
+
