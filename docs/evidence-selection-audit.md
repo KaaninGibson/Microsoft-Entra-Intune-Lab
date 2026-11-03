@@ -6,11 +6,11 @@ This document records the **curated, private** screenshot candidates selected fr
 |---|---|
 | Device restrictions profile | Configuration exists; assignment and success require separate result. |
 | Compliance settings | Multiple compliant states and one encryption error. |
-| Assigned apps list | Application listing; not installation success unless status shown. |
+| Directory groups screenshot | Removed from current branch: displayed object IDs and did not show application assignments. |
 | BitLocker policy | One succeeded; not proof of volume encryption. |
 | Windows LAPS policy | Policy settings, not password retrieval proof. |
 | LAPS rotation | Last password rotation timestamp visible; no password disclosed. |
-| Windows Update ring | Update-ring configuration, not proof of installed updates. |
+| Microsoft Entra device settings | Device registration settings; not a Windows Update ring. |
 | Conditional Access policy | Report-only; not enforced. |
 | CA report-only result | Report-only failure; no enforced block. |
 | Managed device | Corporate, compliant, Intune-managed status at screenshot time. |
