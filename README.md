@@ -1,5 +1,17 @@
 # Microsoft Entra ID & Intune Device Security Lab
 
+## At a glance
+
+**Focus:** Microsoft Entra ID, Intune endpoint management, and Windows device security in a test tenant.
+
+- Enrolled a Windows 11 test endpoint that appeared in Intune as managed and compliant at the time of capture.
+- Reviewed BitLocker policy reporting and Windows LAPS configuration and rotation status.
+- Evaluated a Conditional Access pilot in report-only mode and documented compliance-setting errors and Autopilot registration state.
+
+**What this demonstrates:** Endpoint enrollment, policy inspection, identity controls, and evidence-based troubleshooting. **Evidence boundary:** BitLocker policy success does not independently verify volume encryption; Conditional Access enforcement and end-to-end Autopilot provisioning are not demonstrated.
+
+**Start here:** [Evidence matrix](docs/evidence-matrix.md) · [Device management](docs/device-management.md) · [Screenshot gallery](docs/published-evidence-gallery.md)
+
 **[View the published screenshot evidence gallery](docs/published-evidence-gallery.md)** — 9 currently published screenshots (one directory-ID screenshot removed) with evidence limitations.
 
 [Published screenshot privacy and integrity review](docs/privacy-and-integrity-review.md) — file hash verification, privacy findings, and historical Git limitations.
